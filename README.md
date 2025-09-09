@@ -1,4 +1,9 @@
-[![Intro GIF](assets/intro.gif)](https://syedwamiq.framer.website)
+<p align="center">
+  <a href="https://syedwamiq.framer.website">
+    <img src="assets/intro.gif" alt="Intro GIF" width="1000"/>
+  </a>
+</p>
+
 
 ```python
 #!/usr/bin/python
@@ -78,7 +83,7 @@ if __name__ == '__main__':
 [![zhenye's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nazhenye&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p>
-<div align="left">
+<div align="right">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
 </p>
