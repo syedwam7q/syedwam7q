@@ -1,4 +1,6 @@
-# ©️ Syed Wamiq — Engineering Ideas Into Existence
+[![Intro GIF](assets/intro.gif)](https://syedwamiq.framer.website)
+
+# Syed Wamiq — Develop to Inspire
 
 > Architecting code from byte-level internals to user-facing magic.
 
